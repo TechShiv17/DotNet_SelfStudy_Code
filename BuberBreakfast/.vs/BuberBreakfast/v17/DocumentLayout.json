@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F9FCE5-5837-4096-BA46-6DA8AB099110}|BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj|d:\\self_projects\\webapi_projects\\buberbreakfast\\buberbreakfast.contracts\\breakfast\\upsertbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F9FCE5-5837-4096-BA46-6DA8AB099110}|BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj|solutionrelative:buberbreakfast.contracts\\breakfast\\upsertbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0F9FCE5-5837-4096-BA46-6DA8AB099110}|BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj|d:\\self_projects\\webapi_projects\\buberbreakfast\\buberbreakfast.contracts\\breakfast\\createbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0F9FCE5-5837-4096-BA46-6DA8AB099110}|BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj|solutionrelative:buberbreakfast.contracts\\breakfast\\createbreakfastrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A2BF81-C1B5-414C-9970-DC7F000BB49F}|BuberBreakfast\\BuberBreakfast.csproj|d:\\self_projects\\webapi_projects\\buberbreakfast\\buberbreakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A2BF81-C1B5-414C-9970-DC7F000BB49F}|BuberBreakfast\\BuberBreakfast.csproj|solutionrelative:buberbreakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10A2BF81-C1B5-414C-9970-DC7F000BB49F}|BuberBreakfast\\BuberBreakfast.csproj|d:\\self_projects\\webapi_projects\\buberbreakfast\\buberbreakfast\\controllers\\breakfastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A2BF81-C1B5-414C-9970-DC7F000BB49F}|BuberBreakfast\\BuberBreakfast.csproj|solutionrelative:buberbreakfast\\controllers\\breakfastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpsertBreakfastRequest.cs",
+              "DocumentMoniker": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "ToolTip": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "RelativeToolTip": "BuberBreakfast.Contracts\\Breakfast\\UpsertBreakfastRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:10:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBreakfastRequest.cs",
+              "DocumentMoniker": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "ToolTip": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "RelativeToolTip": "BuberBreakfast.Contracts\\Breakfast\\CreateBreakfastRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:10:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast\\Program.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Program.cs",
+              "ToolTip": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast\\Program.cs",
+              "RelativeToolTip": "BuberBreakfast\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:10:20.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BreakfastController.cs",
+              "DocumentMoniker": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast\\Controllers\\BreakfastController.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Controllers\\BreakfastController.cs",
+              "ToolTip": "D:\\Self_Projects\\WebAPI_Projects\\BuberBreakfast\\BuberBreakfast\\Controllers\\BreakfastController.cs",
+              "RelativeToolTip": "BuberBreakfast\\Controllers\\BreakfastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T15:06:29.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
